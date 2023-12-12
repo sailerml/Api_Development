@@ -13,6 +13,7 @@ python 版本一定要 3.9，具体参考requiments.txt
 
 ### 2) 已训练完成的模型路径
    模型包括 fastspeech_model、hifigan_model、prosody_model
+   
    百度网盘链接：https://pan.baidu.com/s/1PzjQecaANCoXeIvisyWyeg 
    提取码：2twv
 
